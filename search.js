@@ -46,20 +46,22 @@ const data = [
     deatail4:"",
   },
 
-  // {
-  //   id: "4",
-  //   imageLink: "thanhdat.jpg",
-  //   name: "Vietnam Newcomer",
-  //   intro: "",
-  //   namedeatail1: "",
-  //   deatail1: "",
-  //   namedeatail2: "",
-  //   deatail2: "",
-  //   namedeatail3: "",
-  //   deatail3: "",
-  //   namedeatail4: "hobby",
-  //   deatail4:"",
-  // },
+  {
+    id: "4",
+    imageLink: "thanhdat.jpg",
+    name: "Web developer",
+    intro: "Thanh Dat Nguyen from Ho Chi Minh in Vietnam, he has been Canada for 7 months. he is a student at the Tupper sir charles secondary school.",
+    namedeatail1: "The first time",
+    deatail1: "The first time I came here I was afraid of my English, listening and a little bit confused. But it changed my mind when I came to school. I think I will be alone, there are many Vietnamese who will help me to translate.",
+    namedeatail2: "My Goal",
+    deatail2: "My goal is to be an IT professional. I chose this because I used to learn Web development for 2 years and it helped me a lot with skills like building community, leadership, reflex, memory and learning english. In 2 years I build many website like this website: ",
+    namedeatail3: "My advice",
+    deatail3: "I advise who want to be Web developer need people have logic, explore and hard work.",
+    namedeatail4: "hobby",
+    deatail4:"I like explore and build a code",
+  },
+
+  
   // {
   //   id: "5",
   //   imageLink: "baochi.jpg",
